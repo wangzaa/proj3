@@ -1,1 +1,1 @@
-# proj3
+# Wordle App implementation with dictionary clues
